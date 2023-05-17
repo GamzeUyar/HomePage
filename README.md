@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate Frontend Developer from Turkey</h3>
 
-<p align="justify">I'm 33 years old.I am studying Computer Programming at Istanbul University.My favorite programming language is Javascript and the framework is React Js.
+<p align="justify">My favorite programming language is Javascript and the framework is React Js.
 
  </p>
 
