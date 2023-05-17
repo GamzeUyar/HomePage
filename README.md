@@ -8,22 +8,23 @@
 
  </p>
 
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmzefe026gmailcom&label=Profile%20views&color=0e75b6&style=flat" alt="gmzefe026gmailcom" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gmzefe026gmailcom" alt="gmzefe026gmailcom" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/gamze_uyar_" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/gamze_uyar_?logo=twitter&style=for-the-badge" alt="https://twitter.com/gamze_uyar_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gamze_uyar_" target="blank"><img src="https://img.shields.io/twitter/follow/gamze_uyar_?logo=twitter&style=for-the-badge" alt="gamze_uyar_" /></a> </p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/gamze_uyar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/gamze_uyar_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gamze-uyar-b82b21275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gamze-uyar-b82b21275/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/gamzefeuyar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gamzefeuyar/" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@gmzefe026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@gmzefe026" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/gamze_uyar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/gamze_uyar/" height="30" width="40" /></a>
+<a href="https://twitter.com/gamze_uyar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamze_uyar_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gamze-uyar-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gamze-uyar-" height="30" width="40" /></a>
+<a href="https://instagram.com/gamzefeuyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gamzefeuyar" height="30" width="40" /></a>
+<a href="https://medium.com/@gmzefe026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gmzefe026" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gamze_uyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gamze_uyar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gmzefe026gmailcom&show_icons=true&locale=en" alt="gmzefe026gmailcom" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmzefe026gmailcom&" alt="gmzefe026gmailcom" /></p>
+
