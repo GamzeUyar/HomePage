@@ -1,7 +1,7 @@
 <img src="https://github.com/gmzefe026gmailcom/gmzefe026gmailcom/blob/main/Banner.jpg?raw=true">
 
 <h1 align="center">Welcome to my profile 👋  </h1>
-<h2> I'm Gamze Uyar </h2>
+<h2 align="center"> I'm Gamze Uyar </h2>
 
 <h3 align="center">A passionate Frontend Developer from Turkey</h3>
 
