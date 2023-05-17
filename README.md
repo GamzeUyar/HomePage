@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate Frontend Developer from Turkey</h3>
 
-<p align="justify">My favorite programming language is Javascript and the framework is React Js.
+<p align="center">My favorite programming language is Javascript and the framework is React Js.
 
  </p>
 
