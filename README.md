@@ -1,4 +1,4 @@
-<img src="https://github.com/gmzefe026gmailcom/gmzefe026gmailcom/blob/main/Banner.jpg?raw=true">
+<img src="https://github.com/GamzeUyar/GamzeUyar/blob/main/Banner.jpg?raw=true">
 
 <h1 align="center">Welcome to my profile 👋  </h1>
 <h2 align="center"> I'm Gamze Uyar </h2>
@@ -9,9 +9,9 @@
 
  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gmzefe026gmailcom&label=Profile%20views&color=0e75b6&style=flat" alt="gmzefe026gmailcom" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GamzeUyar&label=Profile%20views&color=0e75b6&style=flat" alt="GamzeUyar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gmzefe026gmailcom" alt="gmzefe026gmailcom" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GamzeUyar" alt="GamzeUyar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gamze_uyar_" target="blank"><img src="https://img.shields.io/twitter/follow/gamze_uyar_?logo=twitter&style=for-the-badge" alt="gamze_uyar_" /></a> </p>
 
@@ -34,7 +34,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gmzefe026gmailcom&show_icons=true&locale=en" alt="gmzefe026gmailcom" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GamzeUyar&show_icons=true&locale=en" alt="GamzeUyar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmzefe026gmailcom&" alt="gmzefe026gmailcom" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GamzeUyar&" alt="GamzeUyar" /></p>
 
