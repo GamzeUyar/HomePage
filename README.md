@@ -1,4 +1,4 @@
-<img src="https://github.com/GamzeUyar/GamzeUyar/blob/main/Banner.jpg?raw=true">
+<img src="[https://github.com/GamzeUyar/GamzeUyar](https://github.com/GamzeUyar)/blob/main/Banner.jpg?raw=true">
 
 <h1 align="center">Welcome to my profile 👋  </h1>
 <h2 align="center"> I'm Gamze Uyar </h2>
